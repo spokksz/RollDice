@@ -10,12 +10,6 @@
             display.Names();
 
             display.Score();
-
-
-
-
-            Console.WriteLine("teste");
-
         }
     }
 }
