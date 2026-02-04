@@ -80,12 +80,12 @@ namespace JogarDados
                     if (P1 > P2)
                     {
                         R1 += 1;
-                        Console.WriteLine($"{J1} tirou o número {P1} e {J2} o número {P2}. {J1} venceu a rodada {R1}.");
+                        Console.WriteLine($"{J1} tirou o número {P1} e {J2} o número {P2}. {J1} marcou {R1} pontos.");
                     }
                     else
                     {
                         R2 += 1;
-                        Console.WriteLine($"{J1} tirou o número {P1} e {J2} o número {P2}. {J2} venceu a rodada {R2}.");
+                        Console.WriteLine($"{J1} tirou o número {P1} e {J2} o número {P2}. {J2} marcou {R2} pontos.");
 
                     }
                 }
