@@ -11,6 +11,11 @@
 
             display.Score();
 
+
+
+
+            Console.WriteLine("teste");
+
         }
     }
 }
